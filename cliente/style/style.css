@@ -4,6 +4,7 @@
 }
 
 body {
+    background-color: #F5FADA;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -143,7 +144,7 @@ nav {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(60, 145, 60);
+    background-color: #6e732f6c;
 }
 .conten{
     gap: 10px;
